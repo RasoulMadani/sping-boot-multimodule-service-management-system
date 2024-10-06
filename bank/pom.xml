@@ -8,7 +8,7 @@
         <artifactId>achareh</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
+    <groupId>org.bank.maktabsharif</groupId>
     <artifactId>bank</artifactId>
 
     <properties>
